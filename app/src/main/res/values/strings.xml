@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="detail_image">detail_image</string>
+    <string name="detail_text">detail_text</string>
+</resources>
